@@ -1,0 +1,3 @@
+read_verilog -sv counter8bit.sv
+synth -top counter8bit
+write_verilog counter8bit_synth.v
