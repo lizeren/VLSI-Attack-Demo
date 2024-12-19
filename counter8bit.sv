@@ -12,3 +12,4 @@ module counter8bit (
     end
 
 endmodule
+

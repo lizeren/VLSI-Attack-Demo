@@ -1,0 +1,458 @@
+  cadence/allegro:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/allegro/17.4-2019
+        cadence/allegro/23.1
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/allegro" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/allegro/23.1
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/assura:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/assura/6.17.4.16
+        cadence/assura/6.18.4.16
+        cadence/assura/23.1.4.17
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/assura" package (including how to load the modules) use the module's 
+full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/assura/23.1.4.17
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/confrml:
+----------------------------------------------------------------------------------------------------------------------
+[li3103@ececomp4 VLSI-Attack-Demo]$ module spider cadence > cadence.txt^C
+[li3103@ececomp4 VLSI-Attack-Demo]$ clear
+
+[li3103@ececomp4 VLSI-Attack-Demo]$ module spider cadence
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/allegro:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/allegro/17.4-2019
+        cadence/allegro/23.1
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/allegro" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/allegro/23.1
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/assura:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/assura/6.17.4.16
+        cadence/assura/6.18.4.16
+        cadence/assura/23.1.4.17
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/assura" package (including how to load the modules) use the module's 
+full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/assura/23.1.4.17
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/confrml:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/confrml/18.10
+        cadence/confrml/21.20
+        cadence/confrml/23.10
+        cadence/confrml/23.20
+        cadence/confrml/24.10
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/confrml" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/confrml/24.10
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/ddi:
+----------------------------------------------------------------------------------------------------------------------
+    Description:
+      Digital Design Implementation System Including Innovus, Genus, and Jstudio
+
+     Versions:
+        cadence/ddi/22.14
+        cadence/ddi/23.11
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/ddi" package (including how to load the modules) use the module's ful
+l name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/ddi/23.11
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/emx:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/emx/6.0
+        cadence/emx/6.2
+        cadence/emx/6.3
+        cadence/emx/23.2
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/emx" package (including how to load the modules) use the module's ful
+l name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/emx/23.2
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/genus:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/genus/18.10
+        cadence/genus/21.11
+        cadence/genus/21.17
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/genus" package (including how to load the modules) use the module's f
+ull name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/genus/21.17
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/gpdk45: cadence/gpdk45/6.0
+----------------------------------------------------------------------------------------------------------------------
+
+    This module can be loaded directly: module load cadence/gpdk45/6.0
+
+    Help:
+      Cadence GPDK45 Predictive 45nm PDK
+      Documentation available using command `pdkdoc`
+      
+
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/incisive: cadence/incisive/15.2
+----------------------------------------------------------------------------------------------------------------------
+
+    This module can be loaded directly: module load cadence/incisive/15.2
+
+    Help:
+      Cadence Incisive Simulation Tools
+      Offline help available using command `incisivdoc`
+      
+
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/innovus:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/innovus/16.10
+        cadence/innovus/17.10
+        cadence/innovus/18.10
+        cadence/innovus/19.16
+        cadence/innovus/20.17
+        cadence/innovus/21.12
+        cadence/innovus/21.17
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/innovus" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/innovus/21.17
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/jasper: cadence/jasper/2019.06
+----------------------------------------------------------------------------------------------------------------------
+
+    This module can be loaded directly: module load cadence/jasper/2019.06
+
+    Help:
+      Cadence Jasper Formal Verification 
+      Offline help available using command `jasperdoc`
+      
+
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/liberate:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/liberate/18.10
+        cadence/liberate/21.77
+        cadence/liberate/23.10
+        cadence/liberate/23.16
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/liberate" package (including how to load the modules) use the module'
+s full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/liberate/23.16
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/modus:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/modus/21.10
+        cadence/modus/22.11
+        cadence/modus/23.11
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/modus" package (including how to load the modules) use the module's f
+ull name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/modus/23.11
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/mvs:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/mvs/20.11
+        cadence/mvs/21.12
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/mvs" package (including how to load the modules) use the module's ful
+l name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/mvs/21.12
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/pegasus:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/pegasus/21.30
+        cadence/pegasus/22.23
+        cadence/pegasus/22.24
+        cadence/pegasus/23.20
+        cadence/pegasus/24.10
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/pegasus" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/pegasus/24.10
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/pvs:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/pvs/16.13
+        cadence/pvs/21.12
+        cadence/pvs/22.21
+        cadence/pvs/23.11
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/pvs" package (including how to load the modules) use the module's ful
+l name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/pvs/23.11
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/quantus:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/quantus/20.12
+        cadence/quantus/21.22
+        cadence/quantus/22.10
+        cadence/quantus/22.11
+        cadence/quantus/23.11
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/quantus" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/quantus/23.11
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/sigrity:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/sigrity/2019
+        cadence/sigrity/2023.1
+        cadence/sigrity/2024.0
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/sigrity" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/sigrity/2024.0
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/spb: cadence/spb/23.10
+----------------------------------------------------------------------------------------------------------------------
+
+    This module can be loaded directly: module load cadence/spb/23.10
+
+    Help:
+      Cadence SPB Tempus Timing and Voltus Power
+      Offline help available using command `ssvdoc`
+      
+
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/spectre:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/spectre/1.5.1
+        cadence/spectre/1.7.1
+        cadence/spectre/1.9.1
+        cadence/spectre/20.10
+        cadence/spectre/21.10
+        cadence/spectre/21.10.612
+        cadence/spectre/21.10.824
+        cadence/spectre/23.10.063
+        cadence/spectre/23.10.509
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/spectre" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/spectre/23.10.509
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/ssv:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/ssv/16.1
+        cadence/ssv/18.1
+        cadence/ssv/19.16
+        cadence/ssv/21.12
+        cadence/ssv/22.12
+        cadence/ssv/23.00
+        cadence/ssv/23.11
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/ssv" package (including how to load the modules) use the module's ful
+l name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/ssv/23.11
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/virtuoso:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/virtuoso/6.1.7
+        cadence/virtuoso/6.1.8
+        cadence/virtuoso/23.10
+        cadence/virtuoso/23.10.07
+        cadence/virtuoso/23.10.11
+        cadence/virtuoso/23.10.060
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/virtuoso" package (including how to load the modules) use the module'
+s full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/virtuoso/23.10.060
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/virtuoso-advanced:
+----------------------------------------------------------------------------------------------------------------------
+    Description:
+      Virtuoso Advanced Node
+
+     Versions:
+        cadence/virtuoso-advanced/20.1.14
+        cadence/virtuoso-advanced/20.1.33
+        cadence/virtuoso-advanced/20.1.34
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/virtuoso-advanced" package (including how to load the modules) use th
+e module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/virtuoso-advanced/20.1.34
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/vmanager:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/vmanager/21.09
+        cadence/vmanager/23.03
+        cadence/vmanager/24.03
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/vmanager" package (including how to load the modules) use the module'
+s full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/vmanager/24.03
+----------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+  cadence/xcelium:
+----------------------------------------------------------------------------------------------------------------------
+     Versions:
+        cadence/xcelium/19.03
+        cadence/xcelium/21.09
+        cadence/xcelium/22.09
+        cadence/xcelium/23.03
+        cadence/xcelium/24.03
+
+----------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "cadence/xcelium" package (including how to load the modules) use the module's
+ full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider cadence/xcelium/24.03
+----------------------------------------------------------------------------------------------------------------------
